@@ -1,10 +1,10 @@
-# Pixi Particles Editor
+# Particle Emitter Editor
 
-<img src="https://raw.githubusercontent.com/pixijs/pixi-particles-editor/master/deploy/assets/images/icon.png" alt="logo" width="350" height="350">
+<img src="https://raw.githubusercontent.com/pixijs-userland/particle-emitter-editor/master/deploy/assets/images/icon.png" alt="logo" width="350" height="350">
 
-This tool was designed to interactively create particle emitters using [PixiParticles](https://github.com/pixijs/pixi-particles), a particle system for PixiJS.
+This tool was designed to interactively create particle emitters using [PixiParticles](https://github.com/pixijs-userland/particle-emitter), a particle system for PixiJS.
 
-View the editor [here](http://pixijs.github.io/pixi-particles-editor/).
+View the editor [here](https://userland.pixijs.io/particle-emitter-editor).
 
 ## License
 
